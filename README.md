@@ -14,7 +14,7 @@ It is a simple command-line word guessing game built with Python. The player tri
 .Simple, clean terminal interface
 
 # ▶️ How to Run
-1.Make sure you have Python installed (version 3.x recommended).
+1.Make sure you have Python installed.
 
 2.Clone this repository or download the script.
 
