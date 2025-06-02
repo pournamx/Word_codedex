@@ -13,7 +13,7 @@ It is a simple command-line word guessing game built with Python. The player tri
 
 .Simple, clean terminal interface
 
-#▶️ How to Run
+# ▶️ How to Run
 1.Make sure you have Python installed (version 3.x recommended).
 
 2.Clone this repository or download the script.
@@ -21,7 +21,7 @@ It is a simple command-line word guessing game built with Python. The player tri
 3.Run the game using:
 python word_guess.py
 
-#🧠 Skills Practiced
+# 🧠 Skills Practiced
 .Control flow (if/else, loops)
 
 .Lists and strings
