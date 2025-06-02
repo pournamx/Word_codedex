@@ -1,4 +1,3 @@
-![Screenshot (2)](https://github.com/user-attachments/assets/4f3136c1-39ce-42de-a558-a1d66e1904c7)
 # 🎯 Word Guessing Game 
 This is my first project I have done today.
 It is a simple command-line word guessing game built with Python. The player tries to guess the hidden word one letter at a time, with a limited number of attempts. This project is great for practicing string handling, loops, and basic game logic in Python.
@@ -32,3 +31,4 @@ python word_guess.py
 .User input handling
 
 .Basic game logic
+![Screenshot (2)](https://github.com/user-attachments/assets/4f3136c1-39ce-42de-a558-a1d66e1904c7)
